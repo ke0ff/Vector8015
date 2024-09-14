@@ -14,15 +14,18 @@
 //		of switches or jacks as might be required for a given application.
 //
 // Rev-2a, 9/13/2024
-//	Updated template model
-//	moved main and template into modules
-//	Added flag variable for optional bosses
+//	Updated 8015 drill-template model
+//	moved main and template features into modules
+//	Added flag variable to make bosses optional
+//	Added comments, code cleanup
 //
 // Rev-2, 4/06/2024
 //	Added 4 internal bosses for protoboard
-//	Added dedge chams
 //	Added corner and lattice bracing
 //	Added "btip()" and "btip_wash" reducing hardware to support 1/4" front panel jacks/switches
+//
+// Rev-1, 09/27/23
+//	Initial release
 //
 //----------------------------------------------------------------------------------------------------------------------
 // User defined parameters.  Modify these to suit a particular application
